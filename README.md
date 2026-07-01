@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
