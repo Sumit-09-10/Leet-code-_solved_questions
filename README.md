@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
