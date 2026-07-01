@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
