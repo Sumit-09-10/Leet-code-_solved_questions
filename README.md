@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0069-sqrtx) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
