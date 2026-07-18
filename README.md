@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,9 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
