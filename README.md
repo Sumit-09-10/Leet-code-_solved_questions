@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0011-container-with-most-water) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
