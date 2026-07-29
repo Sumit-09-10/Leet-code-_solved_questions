@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
