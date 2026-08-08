@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Prefix Sum
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
