@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
