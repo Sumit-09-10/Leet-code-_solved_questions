@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0876-middle-of-the-linked-list) |
@@ -127,10 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0141-linked-list-cycle) |
 | [0707-design-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0707-design-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
