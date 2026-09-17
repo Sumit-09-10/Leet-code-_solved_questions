@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0125-valid-palindrome) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0206-reverse-linked-list) |
