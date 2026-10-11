@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0641-design-circular-deque) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
