@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0155-min-stack) |
 | [0641-design-circular-deque](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
