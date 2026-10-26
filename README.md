@@ -176,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0175-combine-two-tables) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
