@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
