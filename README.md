@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0965-univalued-binary-tree) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
