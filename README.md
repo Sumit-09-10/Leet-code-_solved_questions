@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
@@ -209,6 +211,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0965-univalued-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
