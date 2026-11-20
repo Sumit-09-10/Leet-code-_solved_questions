@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0206-reverse-linked-list) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/Sumit-09-10/Leet-code-_solved_questions/tree/master/0814-binary-tree-pruning) |
